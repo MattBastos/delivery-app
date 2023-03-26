@@ -1,13 +1,62 @@
-# :construction: README customizado em construção ! :construction:
-<!-- Olá, Tryber!
-Esse é apenas um arquivo inicial para o README do seu projeto no qual você pode customizar e reutilizar todas as vezes que for executar o trybe-publisher.
+# Delivery App
 
-Para deixá-lo com a sua cara, basta alterar o seguinte arquivo da sua máquina: ~/.student-repo-publisher/custom/_NEW_README.md
+- A Full-stack beverage delivery application.
 
-É essencial que você preencha esse documento por conta própria, ok?
-Não deixe de usar nossas dicas de escrita de README de projetos, e deixe sua criatividade brilhar!
-:warning: IMPORTANTE: você precisa deixar nítido:
-- quais arquivos/pastas foram desenvolvidos por você; 
-- quais arquivos/pastas foram desenvolvidos por outra pessoa estudante;
-- quais arquivos/pastas foram desenvolvidos pela Trybe.
--->
+- In this application we have three flux: customer, seller and administrator.
+
+- In the customer flux is possible to buy products and see the status of the order.
+
+- In the seller flux is possible to see the orders details and change the status.
+
+- In the administrator flux is possible to see and manage the users.
+
+## Stacks and Tools
+
+- JavaScript
+- Node
+- MySQL
+- React
+- RTL (React Testing Library)
+- VsCode
+- Trello
+- Git & Github
+- Linux - Ubuntu
+
+## Running Locally
+
+Clone the project:
+
+```bash
+  git@github.com:MattBastos/delivery-app.git
+```
+
+Enter the project directory:
+
+```bash
+  cd delivery-app
+```
+
+Install dependencies:
+
+```bash
+  npm install
+```
+
+Start the Project:
+
+```bash
+  npm start
+```
+
+## Autores
+
+- [@MattBastos](https://www.github.com/MattBastos)
+- [@ViniciusSoares21](https://github.com/ViniciusSoares21)
+- [@KaminskiFking](https://github.com/KaminskiFking)
+- [@kadraknb](https://github.com/kadraknb)
+- [@xWesleyMartins](https://github.com/xWesleyMartins)
+
+
+## Reference
+
+ - [Trybe](https://www.betrybe.com/)
