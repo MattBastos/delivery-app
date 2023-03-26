@@ -2,7 +2,7 @@
 
 - A Full-stack beverage delivery application.
 
-- In this application we have three flux: customer, seller and administrator.
+- In this application we have three fluxes: customer, seller and administrator.
 
 - In the customer flux is possible to buy products and see the status of the order.
 
@@ -17,6 +17,7 @@
 - MySQL
 - React
 - RTL (React Testing Library)
+- Jest
 - VsCode
 - Trello
 - Git & Github
