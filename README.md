@@ -49,7 +49,7 @@ Start the Project:
   npm start
 ```
 
-## Autores
+## Authors
 
 - [@MattBastos](https://www.github.com/MattBastos)
 - [@ViniciusSoares21](https://github.com/ViniciusSoares21)
